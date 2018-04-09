@@ -52,15 +52,11 @@
 				<key>queuedelaymode</key>
 				<integer>0</integer>
 				<key>queuemode</key>
-				<integer>1</integer>
+				<integer>2</integer>
 				<key>runningsubtext</key>
 				<string>大爷，您稍等...</string>
 				<key>script</key>
-				<string>import sys
-
-query = "{query}"
-
-sys.stdout.write(query)</string>
+				<string>python namebeta.py "{query}"</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -70,7 +66,7 @@ sys.stdout.write(query)</string>
 				<key>title</key>
 				<string>开始搜索您的域名</string>
 				<key>type</key>
-				<integer>3</integer>
+				<integer>0</integer>
 				<key>withspace</key>
 				<true/>
 			</dict>
