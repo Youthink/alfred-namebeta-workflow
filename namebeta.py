@@ -12,6 +12,7 @@ def get_web_data(query):
             data={'q':query}).json()
 
 def main(wf):
+
     # The Workflow3 instance will be passed to the function
     # you call from `Workflow3.run`.
     # Not super useful, as the `wf` object created in

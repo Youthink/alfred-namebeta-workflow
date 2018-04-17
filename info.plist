@@ -21,6 +21,8 @@
 				<false/>
 			</dict>
 		</array>
+		<key>9AE1815D-12BD-4A43-996F-731B331569B5</key>
+		<array/>
 	</dict>
 	<key>createdby</key>
 	<string>https://hufangyun.com</string>
@@ -40,9 +42,9 @@
 				<key>argumenttrimmode</key>
 				<integer>0</integer>
 				<key>argumenttype</key>
-				<integer>0</integer>
+				<integer>1</integer>
 				<key>escaping</key>
-				<integer>68</integer>
+				<integer>0</integer>
 				<key>keyword</key>
 				<string>nb</string>
 				<key>queuedelaycustom</key>
