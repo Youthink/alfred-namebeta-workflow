@@ -30,6 +30,11 @@ def main(wf):
 
     query = args[0]
 
+    wf.add_item(title="Go to the website",
+            subtitle="https://namebeta.com",
+            arg="https://namebeta.com",
+            valid=True)
+
     data = get_web_data(query)
 
     # data 2:占用  1:可以注册
