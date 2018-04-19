@@ -7,13 +7,18 @@
 ## 状态
 developing
 ## 截图
+
 ## 下载
+
+[点击下载](https://github.com/Youthink/alfred-namebeta-workflow/raw/master/alfred-namebeta.com-workflow.alfredworkflow)
+
 ## 使用
+
 ## 相关
 
 官方提供的 [Chrome 插件](https://chrome.google.com/webstore/detail/namebeta-smart-domain-too/opndpgdlkdoeiajepgfdnjedknaohhmg)
 
-[命令行版](https://github.com/TimothyYe/namebeta)
+@TimothyYe 开发的[命令行版](https://github.com/TimothyYe/namebeta)
 
 
 ## TODO
